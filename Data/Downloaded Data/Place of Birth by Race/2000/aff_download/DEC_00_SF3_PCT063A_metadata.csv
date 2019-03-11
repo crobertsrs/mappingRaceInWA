@@ -1,0 +1,18 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+VD01,Total:
+VD02,Native:
+VD03,Native: - Born in state of residence
+VD04,Native: - Born in other state in the United States:
+VD05,Native: - Born in other state in the United States: - Northeast
+VD06,Native: - Born in other state in the United States: - Midwest
+VD07,Native: - Born in other state in the United States: - South
+VD08,Native: - Born in other state in the United States: - West
+VD09,Native: - Born outside the United States:
+VD10,Native: - Born outside the United States: - Puerto Rico
+VD11,Native: - Born outside the United States: - U.S. Island Areas
+VD12,Native: - Born outside the United States: - Born abroad of American parent(s)
+VD13,Foreign born:
+VD14,Foreign born: - Naturalized citizen
+VD15,Foreign born: - Not a citizen

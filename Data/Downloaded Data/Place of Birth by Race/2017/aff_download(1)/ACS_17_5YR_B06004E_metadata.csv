@@ -1,0 +1,13 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+HD01_VD01,Estimate; Total:
+HD02_VD01,Margin of Error; Total:
+HD01_VD02,Estimate; Total: - Born in state of residence
+HD02_VD02,Margin of Error; Total: - Born in state of residence
+HD01_VD03,Estimate; Total: - Born in other state in the United States
+HD02_VD03,Margin of Error; Total: - Born in other state in the United States
+HD01_VD04,Estimate; Total: - Native; born outside the United States
+HD02_VD04,Margin of Error; Total: - Native; born outside the United States
+HD01_VD05,Estimate; Total: - Foreign born
+HD02_VD05,Margin of Error; Total: - Foreign born
